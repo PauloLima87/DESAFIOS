@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Dropbox/CEVP_Aulas/.idea/CEVP_Aulas.iml" filepath="$USER_HOME$/Dropbox/CEVP_Aulas/.idea/CEVP_Aulas.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/CEVP_Desafios/.idea/CEVP_Desafios.iml" filepath="$USER_HOME$/Dropbox/CEVP_Desafios/.idea/CEVP_Desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DESAFIOS.iml" filepath="$PROJECT_DIR$/.idea/DESAFIOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjetoUff/.idea/ProjetoUff.iml" filepath="$PROJECT_DIR$/../ProjetoUff/.idea/ProjetoUff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Teste/.idea/Teste.iml" filepath="$PROJECT_DIR$/../Teste/.idea/Teste.iml" />
+    </modules>
+  </component>
+</project>
